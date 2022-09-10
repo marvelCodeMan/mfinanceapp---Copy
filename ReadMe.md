@@ -30,3 +30,4 @@ Contributors:
  which will serve as the data for the ai model.
  
  Base paper taken from towardsdatascience.com.
+ youtube link for projext explanation : https://youtu.be/5R-NDdBuszk
